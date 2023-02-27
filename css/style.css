@@ -86,7 +86,7 @@ body {
 
 /* Hero Section */
 .hero {
-  min-height: 95vh;
+  min-height: 90vh;
   display: flex;
   align-items: center;
   background-image: url("../img/Coklat\ Minimalis\ Toko\ Kue\ Banner.png");
