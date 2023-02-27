@@ -1,1 +1,1 @@
-# The-Sweeties.github.io
+# The-Sweetie.github.io
