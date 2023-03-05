@@ -55,7 +55,7 @@ body {
 }
 
 .navbar .navbar-nav a:hover {
-  color: var(--bgs);
+  color: var(--bg);
 }
 
 .navbar .navbar-nav a::after {
